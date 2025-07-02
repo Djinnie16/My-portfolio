@@ -50,10 +50,7 @@ function App() {
            target="_blank" className="text-blue-500 hover:text-blue-700">kelvindevl@proton.me</a></li>
            <li>GitHub: <a href="https://github.com/djinnie16" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700">github.com/djinnie16</a></li>
             <li>LinkedIn: <a href="https://www.linkedin.com/in/kelvin-gitau-386772298/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:text-blue-700">LinkedIn Profile</a></li> {/* Added LinkedIn URL */}
-            <li>Resume:<a href="/assets/Kelvin portfolio.pdf" target="_blank" className="text-blue-500 hover:text-blue-700">View Resume</a> | {/* Added route for resume page */}
-              <a href="/assets/Kelvin portfolio.pdf" download className="text-blue-500 hover:text-blue-700">Download Resume (PDF)</a> {/* Added path for resume PDF */}
-            </li>
-          </ul>
+            </ul>
         </Section>
       </main>
       <footer className="text-center py-4 bg-gray-300 dark:bg-gray-700 text-gray-800 dark:text-gray-200">
