@@ -20,7 +20,7 @@ function App() {
         </Section>
         <Section id="skills" title="Skills">
           <ul className="grid grid-cols-3 gap-1 text-gray-700 dark:text-gray-300">
-            {['HTML', 'CSS', 'JavaScript', 'Flutter', 'Laravel', 'MySQL', 'Git & GitHub', 'React', 'Tailwind'].map((skill) => (
+            {['HTML', 'CSS', 'JavaScript', 'Flutter', 'Laravel', 'MySQL', 'Git & GitHub', 'React', 'Tailwind', 'Typescript', 'Nextjs'].map((skill) => (
               <li key={skill} className="bg-blue-50 dark:bg-blue-900 p-2 rounded text-center text-blue-800 dark:text-blue-200">
                 {skill}
               </li>
