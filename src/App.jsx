@@ -31,6 +31,8 @@ function App() {
           <ul className="space-y-4 text-gray-700 dark:text-gray-300">
             <li className="bg-purple-100 dark:bg-purple-900 p-2 rounded"><strong>Travel App</strong> – Flutter app integrating hotels, cabs, and travel agencies.</li>
             <li className="bg-purple-100 dark:bg-purple-900 p-2 rounded"><strong>Portfolio Website</strong> – Personal website using HTML, CSS, and JavaScript.</li>
+            <li className="bg-purple-100 dark:bg-purple-900 p-2 rounded"><strong>Earthsyeild</strong> – A Role Based System.</li>
+            <li className="bg-purple-100 dark:bg-purple-900 p-2 rounded"><strong>Jflix kenya</strong> – An e-commerce app.</li>
           </ul>
         </Section>
         <Section id="experience" title="Experience">
