@@ -450,7 +450,12 @@ function App() {
             <ul className="space-y-3 text-gray-700 dark:text-gray-300">
               <li className="flex items-center gap-3 transition-transform duration-300 hover:translate-x-2">
                 <span className="text-2xl">📧</span>
-                Email: <a href="mailto:kelvindevl@proton.me" className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 transition-colors font-medium">kelvindevl@proton.me</a>
+                Email: <a 
+                  href="mailto:kelvindevl@proton.me?subject=Portfolio%20Inquiry&body=Hi%20Kelvin,%0A%0AI%20saw%20your%20portfolio%20and%20would%20like%20to%20discuss%20potential%20opportunities.%20Please%20let%20me%20know%20a%20convenient%20time%20to%20connect.%0A%0ABest%20regards,%0A[Your%20Name]" 
+                  className="text-blue-600 dark:text-blue-400 hover:text-blue-800 dark:hover:text-blue-200 transition-colors font-medium"
+                >
+                  kelvindevl@proton.me
+                </a>
               </li>
               <li className="flex items-center gap-3 transition-transform duration-300 hover:translate-x-2">
                 <span className="text-2xl">💻</span>
