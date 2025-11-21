@@ -7,7 +7,7 @@ function App() {
     <div className="bg-gradient-to-br from-gray-100 via-blue-50 to-teal-50 dark:from-gray-900 dark:via-gray-800 dark:to-teal-900 min-h-screen transition-all duration-500">
       <header className="text-center py-12 bg-gradient-to-r from-teal-600 to-blue-600 dark:from-teal-800 dark:to-blue-800 text-white transform transition-transform duration-300 hover:scale-[1.02]">
         <div className="max-w-4xl mx-auto px-4">
-          <h1 className="text-5xl font-bold mb-4 animate-pulse">Kelvin G</h1>
+          <h1 className="text-5xl font-bold mb-4 animate-pulse">Kelvin Gitau</h1>
           <p className="text-xl opacity-90 transition-opacity duration-300 hover:opacity-100">
             <a 
               href="https://github.com/djinnie16" 
@@ -217,8 +217,8 @@ function App() {
             <div className="bg-white/70 dark:bg-gray-800/70 backdrop-blur-sm p-6 rounded-2xl shadow-lg transition-all duration-500 hover:shadow-2xl hover:scale-[1.02] hover:bg-white/90 dark:hover:bg-gray-800/90 border border-white/20 group">
               <strong className="text-xl text-blue-700 dark:text-blue-300 group-hover:text-blue-600 dark:group-hover:text-blue-200 transition-colors">Travel Booking Mobile App</strong>
               <p className="mt-3 text-gray-700 dark:text-gray-300 group-hover:text-gray-800 dark:group-hover:text-gray-200 transition-colors">
-                A cross-platform Flutter mobile application with Laravel backend that enables users to discover and book travel destinations, 
-                hotels, and cab services. Features interactive maps with destination pins, comprehensive agency listings, and a seamless 
+                A cross-platform Flutter mobile application with Laravel backend that enables users to discover and book travel destinations,
+                hotels, and cab services. Features interactive maps with destination pins, comprehensive agency listings, and a seamless
                 booking experience. Built as a full-stack final year project demonstrating mobile development expertise.
               </p>
               <div className="mt-4 flex flex-wrap gap-2">
@@ -231,6 +231,15 @@ function App() {
               <div className="mt-4 text-sm text-gray-600 dark:text-gray-400 italic">
                 🎓 Final Year Project | 📱 Cross-Platform (Android & iOS) | 🗺️ Interactive Map Integration
               </div>
+              <a 
+                href="https://github.com/Djinnie16/travel-app"  
+                target="_blank" 
+                rel="noopener noreferrer" 
+                className="inline-flex items-center gap-2 mt-4 px-6 py-2 bg-blue-600 text-white rounded-full transition-all duration-300 hover:bg-blue-700 hover:gap-3 hover:shadow-lg hover:scale-105"
+              >
+                View GitHub Repository
+                <span className="transition-transform duration-300 group-hover:translate-x-1">📱</span>
+              </a>
             </div>
 
             {/* Portfolio Website - Updated */}
